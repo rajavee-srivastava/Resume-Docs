@@ -4,4 +4,4 @@
 
 I'll be updating my Resume here as my career progresses.
 
-You can download it by clicking [here]([https://github.com/RajviS1904/Resume-Docs/raw/main/Rajavee_Resume_v3.pdf](https://github.com/RajviS1904/Resume-Docs/blob/main/Rajavee_Resume_v5%20(1).pdf))
+You can download it by clicking [here](https://github.com/RajviS1904/Resume-Docs/blob/main/Rajavee_Resume_v5%20(1).pdf)
